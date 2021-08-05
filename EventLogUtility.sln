@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventLogUtility", "EventLogUtility.csproj", "{83549B65-945F-44F8-90D8-2DA63ACCDDBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83549B65-945F-44F8-90D8-2DA63ACCDDBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83549B65-945F-44F8-90D8-2DA63ACCDDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83549B65-945F-44F8-90D8-2DA63ACCDDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83549B65-945F-44F8-90D8-2DA63ACCDDBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A81AF51E-EE07-4A28-93DE-6C0927098FED}
+	EndGlobalSection
+EndGlobal
